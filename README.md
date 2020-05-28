@@ -1,2 +1,3 @@
 # Learning-Git-and-GitHub
-This repository is for learning Git and GitHub from PIAIC course.
+I have started learning Git and Github from PIAIC course and
+this repository is for practice purpose.
